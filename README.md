@@ -41,6 +41,6 @@ I build agent **harnesses** — the unglamorous infrastructure around the model.
 
 ### Where to find me
 
-[**LinkedIn**](https://linkedin.com/in/nawneet) &nbsp;·&nbsp; [**Email**](mailto:nawneetusa@gmail.com) &nbsp;·&nbsp; [**X**](https://x.com/nawneet)
+[**LinkedIn**](https://www.linkedin.com/in/nawneet-kumar/) &nbsp;·&nbsp; [**Email**](mailto:nawneetkumar66@gmail.com)
 
 > Reaching out about open source, roles, or harness design? Tag `@nawneet77` on any contribution above — fastest signal.
