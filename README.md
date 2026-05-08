@@ -19,7 +19,7 @@ I build the unglamorous infrastructure around large language models — eval loo
 <table>
   <tr>
     <td width="120" valign="top"><sub><b>NOW</b></sub></td>
-    <td>Shipping to <a href="https://github.com/Tracer-Cloud/opensre"><b>Tracer Cloud</b></a> — first PR (<a href="https://github.com/Tracer-Cloud/opensre/pull/1578">#1578</a>) merged in 2&nbsp;hours. Lining up the next one.</td>
+    <td><!-- LATEST_OSS:start -->Shipping to <a href="https://github.com/Tracer-Cloud/opensre"><b>Tracer Cloud</b></a> — first PR (<a href="https://github.com/Tracer-Cloud/opensre/pull/1578">#1578</a>) merged in 2&nbsp;hours. Lining up the next one.<!-- LATEST_OSS:end --></td>
   </tr>
   <tr>
     <td valign="top"><sub><b>BUILDING</b></sub></td>
