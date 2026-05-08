@@ -2,9 +2,13 @@
   <img src="./hero.svg" alt="Nawneet — agent harnesses, eval loops, systems that ship" width="100%"/>
 </p>
 
-<br/>
+<p align="center">
+  <a href="https://github.com/nawneet77">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1500&color=FF5C00&center=true&vCenter=true&width=720&lines=Most+agents+look+great+in+a+notebook.;Few+survive+week+two+in+production.;I+work+on+that+gap." alt="Mission" />
+  </a>
+</p>
 
-> **The model isn't the bottleneck. The harness is.**
+<br/>
 
 I build the unglamorous infrastructure around large language models — eval loops, tool governance, ratchets, HITL gates. The work that turns an LLM demo into a system you can run on a Tuesday and trust on a Friday.
 
@@ -29,6 +33,14 @@ I build the unglamorous infrastructure around large language models — eval loo
 
 <br/>
 
+<p align="center">
+  <a href="https://github.com/nawneet77">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=20&pause=2000&color=F5F1E8&center=true&vCenter=true&width=780&lines=Eval-driven+beats+vibe-driven.;A+ratchet+beats+a+roadmap.;An+agent+that+ships+every+day+is+infrastructure." alt="Thesis" />
+  </a>
+</p>
+
+<br/>
+
 ### Cabinet
 
 <sub>
@@ -41,9 +53,13 @@ I build the unglamorous infrastructure around large language models — eval loo
 
 ### Telemetry
 
-<p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nawneet77&bg_color=0A0E14&color=F5F1E8&line=FF5C00&point=FF5C00&area=true&area_color=FF5C00&hide_border=true&radius=2&custom_title=Activity%20%E2%80%94%20last%20year&height=240" alt="Activity graph" width="100%"/>
+</p>
+
+<p align="center">
   <a href="https://github.com/nawneet77">
-    <img height="158" src="https://github-readme-stats.vercel.app/api?username=nawneet77&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0A0E14&title_color=FF5C00&icon_color=FF5C00&text_color=F5F1E8&hide=contribs" alt="GitHub stats" />
+    <img height="158" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=nawneet77&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0A0E14&title_color=FF5C00&icon_color=FF5C00&text_color=F5F1E8" alt="GitHub stats" />
     <img height="158" src="https://github-readme-streak-stats.herokuapp.com?user=nawneet77&hide_border=true&background=0A0E14&stroke=FF5C00&ring=FF5C00&fire=FF5C00&currStreakNum=F5F1E8&sideNums=F5F1E8&currStreakLabel=FF5C00&sideLabels=F5F1E8&dates=6B7280" alt="GitHub streak" />
   </a>
 </p>
