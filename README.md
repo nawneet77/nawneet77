@@ -19,7 +19,7 @@ I build the unglamorous infrastructure around large language models — eval loo
 <table>
   <tr>
     <td width="120" valign="top"><sub><b>NOW</b></sub></td>
-    <td><!-- LATEST_OSS:start -->Shipping to <a href="https://github.com/Tracer-Cloud/opensre"><b>Tracer Cloud</b></a> — first PR (<a href="https://github.com/Tracer-Cloud/opensre/pull/1578">#1578</a>) merged in 2&nbsp;hours. Lining up the next one.<!-- LATEST_OSS:end --></td>
+    <td><!-- LATEST_OSS:start -->Last open source merge: <a href="https://github.com/Tracer-Cloud"><b>Tracer-Cloud</b></a> <a href="https://github.com/Tracer-Cloud/opensre/pull/1578">#1578</a> — <i>feat(guardrails): GuardrailStream chunked adapter over GuardrailEngine</i> &middot; 12h ago.<!-- LATEST_OSS:end --></td>
   </tr>
   <tr>
     <td valign="top"><sub><b>BUILDING</b></sub></td>
