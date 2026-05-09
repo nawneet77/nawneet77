@@ -9,8 +9,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nawneet77&style=flat-square&color=FF5C00&label=PROFILE+VIEWS" alt="Profile views" />
-  &nbsp;
   <img src="https://img.shields.io/github/followers/nawneet77?style=flat-square&color=FF5C00&labelColor=0A0E14&label=FOLLOWERS" alt="Followers" />
   &nbsp;
   <img src="https://img.shields.io/github/stars/nawneet77?style=flat-square&color=FF5C00&labelColor=0A0E14&label=STARS" alt="Stars" />
