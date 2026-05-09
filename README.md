@@ -8,6 +8,14 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nawneet77&style=flat-square&color=FF5C00&label=PROFILE+VIEWS" alt="Profile views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/nawneet77?style=flat-square&color=FF5C00&labelColor=0A0E14&label=FOLLOWERS" alt="Followers" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/nawneet77?style=flat-square&color=FF5C00&labelColor=0A0E14&label=STARS" alt="Stars" />
+</p>
+
 <br/>
 
 I build the unglamorous infrastructure around large language models — eval loops, tool governance, ratchets, HITL gates. The work that turns an LLM demo into a system you can run on a Tuesday and trust on a Friday.
