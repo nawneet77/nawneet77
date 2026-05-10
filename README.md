@@ -19,7 +19,7 @@ I build the unglamorous infrastructure around large language models — eval loo
 <table>
   <tr>
     <td width="120" valign="top"><sub><b>NOW</b></sub></td>
-    <td><!-- LATEST_OSS:start -->Last open source merge: <a href="https://github.com/Tracer-Cloud"><b>Tracer-Cloud</b></a> <a href="https://github.com/Tracer-Cloud/opensre/pull/1722">#1722</a> — <i>feat(agents): error/retry rate detector reusing guardrail-rule shape</i> &middot; just now.<!-- LATEST_OSS:end --></td>
+    <td><!-- LATEST_OSS:start -->Last open source merge: <a href="https://github.com/Tracer-Cloud"><b>Tracer-Cloud</b></a> <a href="https://github.com/Tracer-Cloud/opensre/pull/1722">#1722</a> — <i>feat(agents): error/retry rate detector reusing guardrail-rule shape</i> &middot; yesterday.<!-- LATEST_OSS:end --></td>
   </tr>
   <tr>
     <td valign="top"><sub><b>BUILDING</b></sub></td>
