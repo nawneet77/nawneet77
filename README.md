@@ -19,7 +19,7 @@ I build the unglamorous infrastructure around large language models — eval loo
 <table>
   <tr>
     <td width="120" valign="top"><sub><b>NOW</b></sub></td>
-    <td><!-- LATEST_OSS:start -->Last open source merge: <a href="https://github.com/OpenCoven"><b>OpenCoven</b></a> <a href="https://github.com/OpenCoven/coven/pull/51">#51</a> — <i>fix(api): reject non-integer limit and afterSeq with structured 400</i> &middot; 2 weeks ago.<!-- LATEST_OSS:end --></td>
+    <td><!-- LATEST_OSS:start -->Last open source merge: <a href="https://github.com/OpenCoven"><b>OpenCoven</b></a> <a href="https://github.com/OpenCoven/feedback/pull/1">#1</a> — <i>feat(db): add widget_events table for lifecycle instrumentation</i> &middot; 3h ago.<!-- LATEST_OSS:end --></td>
   </tr>
   <tr>
     <td valign="top"><sub><b>BUILDING</b></sub></td>
