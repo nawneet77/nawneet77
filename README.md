@@ -19,7 +19,7 @@ I build the unglamorous infrastructure around large language models — eval loo
 <table>
   <tr>
     <td width="120" valign="top"><sub><b>NOW</b></sub></td>
-    <td><!-- LATEST_OSS:start -->Last open source merge: <a href="https://github.com/raycast"><b>raycast</b></a> <a href="https://github.com/raycast/extensions/pull/32874">#32874</a> — <i>[Model Context Protocol Registry] Add AyHire</i> &middot; 21h ago.<!-- LATEST_OSS:end --></td>
+    <td><!-- LATEST_OSS:start -->Last open source merge: <a href="https://github.com/raycast"><b>raycast</b></a> <a href="https://github.com/raycast/extensions/pull/32874">#32874</a> — <i>[Model Context Protocol Registry] Add AyHire</i> &middot; yesterday.<!-- LATEST_OSS:end --></td>
   </tr>
   <tr>
     <td valign="top"><sub><b>BUILDING</b></sub></td>
