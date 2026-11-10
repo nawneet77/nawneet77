@@ -19,7 +19,7 @@ I build the unglamorous infrastructure around large language models — eval loo
 <table>
   <tr>
     <td width="120" valign="top"><sub><b>NOW</b></sub></td>
-    <td><!-- LATEST_OSS:start -->Last open source merge: <a href="https://github.com/toolsdk-ai"><b>toolsdk-ai</b></a> <a href="https://github.com/toolsdk-ai/toolsdk-mcp-registry/pull/1100">#1100</a> — <i>Add AyHire remote MCP server</i> &middot; 6 days ago.<!-- LATEST_OSS:end --></td>
+    <td><!-- LATEST_OSS:start -->Last open source merge: <a href="https://github.com/toolsdk-ai"><b>toolsdk-ai</b></a> <a href="https://github.com/toolsdk-ai/toolsdk-mcp-registry/pull/1100">#1100</a> — <i>Add AyHire remote MCP server</i> &middot; 1 week ago.<!-- LATEST_OSS:end --></td>
   </tr>
   <tr>
     <td valign="top"><sub><b>BUILDING</b></sub></td>
